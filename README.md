@@ -1,4 +1,4 @@
-![](https://github.com/powermx/dl/blob/master/zivpn.png)
+![](https://github.com/Dimank_cyber/dl/blob/master/zivpn.png)
 
 UDP server installation for ZIVPN Tunnel (SSH/DNS) VPN app.
 <br>
@@ -32,6 +32,6 @@ Client App available:
 > ZiVPN
                 
 ----
-Bash script by PowerMX
-> Telegram : https://t.me/vpnmx | 
-> Official Github: https://github.com/zahidbd2/udp-zivpn
+Bash script by DimankSTORE
+> Telegram : https://t.me/manusiabiasa3 | 
+> Whatsapp :wa.me/6287867272855
