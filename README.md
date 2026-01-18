@@ -5,6 +5,10 @@ UDP server installation for ZIVPN Tunnel (SSH/DNS) VPN app.
 
 >Server binary for Linux amd64 and arm.
 
+#### Instalasi
+
+```wget -O menuzivpn https://raw.githubusercontent.com/Dimank_cyber/Zivpn/main/menuzivpn; sudo chmod +x menuzivpn; sudo ./menuzivpn```
+
 #### Instalation Menu
 
 ```
